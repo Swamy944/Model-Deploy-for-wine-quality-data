@@ -1,1 +1,1 @@
-web: winequalitydeply app:app
+web: gunicorn app:app
