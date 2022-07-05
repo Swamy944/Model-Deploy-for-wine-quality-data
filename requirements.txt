@@ -1,8 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
-# platform: win-64
-click                     8.1.2                    
-colorama                  0.4.4                    
+# platform: win-64                                      
 flask                     2.1.1                    
 gunicorn                  20.1.0                   
 importlib-metadata        4.11.3                   
